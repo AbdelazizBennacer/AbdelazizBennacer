@@ -1,7 +1,7 @@
 <h3>Hi there 👋</h3>
   python <br>
-  django 
-  django RUST API
-  react js (littiw+MU)
-  html plug | css sass | bootstrap | js 
-  mongo db | MySql
+  django <br>
+  django RUST API <br>
+  react js (littiw+MU) <br>
+  html plug | css sass | bootstrap | js <br>
+  mongo db | MySql <br>
