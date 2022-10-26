@@ -1,4 +1,7 @@
 <h3>Hi there 👋</h3>
+
+Skills :<br>
+
   python <br>
   django <br>
   django RUST API <br>
