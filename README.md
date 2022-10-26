@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-Skills :<br>
+My skills :<br>
 
   - python <br>
   - django <br>
